@@ -1,0 +1,119 @@
+@media(max-width:1200px){}
+
+@media(max-width:1200px){}
+
+@media(max-width:1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 100%;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .slider-section img {
+        width: 100%;
+    }
+}
+
+
+@media(max-width:950px){
+    .logo img {
+        width: 100% !important;
+    }
+    .logo {
+        width: 120px;
+    }
+}
+
+@media(max-width:768px){
+    .slider-section2 h2 {
+        margin: 9px 0 !important;
+    }
+    .slider-section2 .pp {
+        font-size: 13px;
+    }
+    .number-item {
+        margin: 10px 0;
+    }
+    .number-section {
+        padding: 20px 0 !important;
+    }
+    .buy-item p {
+        font-size: 13px !important;
+        margin: 12px 0;
+    }
+    .buy-item h1 {
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    .buy-item button {
+        margin: 20px 0 !important;
+    }
+    .img-section {
+        padding: 0 60px;
+    }
+    .img-item {
+        margin-top: 80px;
+    }
+
+}
+
+@media(max-width:576px){
+    .logo {
+        width: 100px;
+    }
+    .menu {
+        padding: 0 !important;
+        /* margin: 0 !important; */
+        margin-top: -58px;
+    }
+    .slider-section {
+        padding: 0 40px;
+    }
+    .buy-section {
+        padding: 0 60px;
+    }
+    .buy-item {
+        margin: 10px 0;
+    }
+    .buy-section .rs {
+        font-size: 13px;
+    }
+    .buy-section h1 {
+        font-size: 26px;
+    }
+    .img-item {
+        margin-top: 80px;
+        padding: 45px 0 !important;
+    }
+    .img-item img {
+        bottom: 13.5rem;
+
+    }
+    .contact-section {
+        padding: 0 40px;
+    }
+    .contact-section form{
+        padding: 20px !important;
+    }
+    .contact-section form p {
+        margin-bottom: 20px !important;
+    }
+    .contact-item {
+        margin-top: -10px !important;
+        margin-left: 0 !important;
+    }
+    .contact-section h1 {
+        font-size: 25px;
+        margin-bottom: 30px !important;
+        margin-top: -5px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+}
+
+@media(max-width:440px){
+    .img-item img {
+        bottom: 14.7rem;
+    }
+}
